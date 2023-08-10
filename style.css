@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Oswald&display=swap');
+body{
+  font-family: 'Oswald', sans-serif;
+  background-image: url(https://images.ctfassets.net/hrltx12pl8hq/7JnR6tVVwDyUM8Cbci3GtJ/bf74366cff2ba271471725d0b0ef418c/shutterstock_376532611-og.jpg);
+  background-size: cover
+}
+
+#cv-form {
+    display: block;
+    text-align: center;
+  }
+  
+  #cv-template {
+    display: none;
+    text-align:left;
+  }
+.myimg{
+    width: 180px;
+    /* height: 100px; */
+}
+.background{
+    background-color: rgb(52, 103, 169);
+}
+input{
+ background-color: transparent;
+}
+a{
+  text-decoration: none;
+}
